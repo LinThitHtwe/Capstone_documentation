@@ -4,6 +4,13 @@ This project is an INTI Capstone that combines a web-based library table reserva
 
 The goal is to reduce wasted seats from abandoned bookings, give library users a clearer view of free tables before they arrive, and give librarians real-time visibility into both bookings and physical occupancy. The web app handles account roles, booking rules (opening hours, slot length, overlap checks, and a daily reservation-time limit), and email reminders. The IoT layer connects weight sensors and LCD units so the digital map stays closer to what is happening in the real library space.
 
+## Related repositories
+
+- Backend: https://github.com/LinThitHtwe/Capstone_backend
+- Frontend: https://github.com/LinThitHtwe/Capstone_frontend
+- IoT firmware: https://github.com/LinThitHtwe/Capstone_Iot
+- Documentation (this repo): https://github.com/LinThitHtwe/Capstone_documentation
+
 ## Members
 
 | ![LinThitHtwe](https://github.com/LinThitHtwe.png) | ![Yuka](https://github.com/Yuka2608.png)
